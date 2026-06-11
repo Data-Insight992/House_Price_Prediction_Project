@@ -1,1 +1,1 @@
-# House_Price_Prediction_Project
+This project aims to develop a house price prediction model using supervised machine learning techniques. Here California Housing dataset is analyzed to understand data patterns, distributions, and relationships among variables. To predict house prices, three supervised learning algorithms are implemented: Linear Regression, Decision Tree Regressor, and Random Forest Regressor. The performance of each model is evaluated to determine the most accurate and reliable model.
